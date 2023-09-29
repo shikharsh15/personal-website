@@ -1,0 +1,25 @@
+#head{
+    font-size:15px;
+    background-color:rgb(255, 224, 240) ;
+    height: 60px;
+}
+#hero{
+    height:500px;
+    background-color:rgb(253, 209, 244) ;
+}
+body{
+    background-color:rgb(255, 230, 250) ;
+}
+/* div{
+    background-color: white;
+} */
+.carousel-caption{
+    color:rgb(0, 0, 0);
+}
+.carousel-item{
+    background-color: white;
+    border-radius: 2%;
+}
+h2,p{
+    font-family: 'Antic Slab', serif;
+}
